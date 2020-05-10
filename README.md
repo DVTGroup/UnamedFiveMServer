@@ -7,74 +7,77 @@ Update pagina voor de FiveM RP Server zonder naam
 
 Voertuigen in de Car Dealer aanwezig:
  **Trucks**
- Boxville Truck
- - Speciale wagen
+ * Boxville Truck (Speciale wagen)
  
  **Nissan**
-Armada Nism (Nissan)
-GTR 2017 (Nissan)
+* Armada Nism (Nissan)
+* GTR 2017 (Nissan)
 
 **Mitsubishi**
-Lancer Evo X (Mitsubishi)
+* Lancer Evo X (Mitsubishi)
 
 **Mercedes**
-Brabus 850 (Mercedes)
-G-Wagon (Mercedes)
-S63 AMG Cabriolet (Mercedes)
-2014 S500 (Mercedes)
+* Brabus 850 (Mercedes)
+* G-Wagon (Mercedes)
+* S63 AMG Cabriolet (Mercedes)
+* 2014 S500 (Mercedes)
 
 **Lamborghini**
-2014 Huracan (Lamborghini)
-2019 SC18 Alston (Lamborghini)
-2019 SVJ (Lamborghini)
-Urus (Lamborghini
+* 2014 Huracan (Lamborghini)
+* 2019 SC18 Alston (Lamborghini)
+* 2019 SVJ (Lamborghini)
+* Urus (Lamborghini
 
 **Ford**
-F-350 Dually
-Mustang GT500
-GT 2018
-Raptor 2017
+* F-350 Dually
+* Mustang GT500
+* GT 2018
+* Raptor 2017
 
 **Ferarri**
-GTC4 Lusso 
+* GTC4 Lusso 
 
 **Cadillac**
-ATS-V Coupe
-Presidental Limo
-Escelate
+* ATS-V Coupe
+* Presidental Limo
+* Escelate
 
 **BMW**
-M5 2018
-M5 E39 (moet handling nog van aangepast worden, aangezien dat ding 260 gaat)
-X6 M 2016
+* M5 2018
+* M5 E39 (moet handling nog van aangepast worden, aangezien dat ding 260 gaat)
+* X6 M 2016
 
 **Audi**
-A6 Quattro S-Line
-RS5
-SQ7 2016
+* A6 Quattro S-Line
+* RS5
+* RS6
+* RS7
+* SQ7 2016
+* R8
 
 
-Voertuigen in de Boat Dealer aanwezig:
+**Voertuigen in de Boat Dealer aanwezig**:
+
 **Dingy**
-Dinghy 4Seat
-Dinghy 2Seat
+* Dinghy 4Seat
+* Dinghy 2Seat
 
 **Jetski**
-Seashark
+* Seashark
 
 **Yaght**
-Marquis
+* Marquis
 
 **Mini Yaght**
-Speeder
-Squalo
-Suntrap
-Toro
-Tropic
+* Speeder
+* Squalo
+* Suntrap
+* Toro
+* Tropic
 
 **Onderzeer**
-Submarine
-Kraken
+* Submarine
+* Kraken
 
 
 Voertuigen in de Aircraft Dealer aanwezig:
@@ -99,8 +102,8 @@ Journalist (Onbekend hoe ik dit binnen RP ga laten lopen)
 Piloot (momenteel aan het kijken tot hoe verre ik dit kan implementeren binnen de RP omgeving)
 
 **Non Whitelisted Jobs**
-Visser
-Brandstof Transport (Binnekort met custom livery's die bepaald welke Gas Stations je naar toe gaat rijden)
+* Visser
+* Brandstof Transport (Binnekort met custom livery's die bepaald welke Gas Stations je naar toe gaat rijden)
 Hout Hakker 
 Mijn Werker
 Slachter
