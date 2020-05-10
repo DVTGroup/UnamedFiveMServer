@@ -109,10 +109,15 @@ Koerier (Momenteel PostNL, binnekort komt Coolblue / DHL / en andere post zoals 
 
 **Onderwereld Jobs**
 Huisinbraak
+
 Winkeloverval
+
 Bankoverval
+
 Drugs (Coke/Meth/Opium/XTC/Poppy)
+
 Maffia
+
 Bikers
 
 **Non Categorised Jobs**
@@ -133,6 +138,7 @@ Supermarkten
 
 **Drinken**
 Supermarkten
+
 Coca Cola Machines
 
 **Brandstof**
@@ -140,28 +146,42 @@ Pomp Stations
 
 **Uiterlijk**
 Kledingwinkels
+
 Tattoo Shops
+
 Kappers
 
 **Voertuig**
 ANWB (voor reparaties en tuning)
+
 Car Wash
+
 Fietsenverhuur
-Publieke Garages (Ook impound
+
+Publieke Garages (Ook impound)
+
 Boten Garages (Ook inpound)
+
 Auto's Huren (Dit kan alleen als de Auto Dealer Job whitelisted blijft en de systemen getest zijn)
 
 **Economie**
 Banken
+
 Pinautomaten
+
 Cash
+
 Bank (Hiermee zal je in staat zijn bepaalde dingen aan te schaffen zoals auto's omdat het niet RP wijs logisch is dat je een auto van 100K gaat kopen met cash. Later zal hiervoor ook een PIN systeem tussen komen, waarvoor je dus je pincode nodig hebt om die transactie te kunnen verrichten)
+
 Salaris (Per rang krijg je een bepaalde hoeveelheid salaris, waarbij je ook nog per actie die je verricht voor de job geld krijgt)
 
 **Overige**
 Wapenwinkel (momenteel bezig met licensies en hoe dit gaat lopen binnen de RP omgeving)
+
 CBR voor je Auto/Motor/Vrachtwagen (Boten ben ik nog mee bezig)
+
 Appartementen
+
 Telefoon (Hiermee kan je dus ook ANWB, Ambulance, Politie, Brandweer, Auto Dealer berichten sturen. Zodra je dood gaat, kan je de G toets gebruiken om een noodmelding uit te sturen naar de ambulance. Als er meer dan 4 agenten in de stad zijn krijgt ook politie een bericht, maar met de notitie dat de Ambu ook al de melding heeft gekregen. Mocht het in het uiterste geval gaan om een auto ongeluk dan krijgt brandweer ook een bericht toegestuurd. Brandweer heeft namelijk materialen om auto's uit elkaar te halen waardoor ambu makkelijk bij het slachtoffer kan komen. Detail: Zodra er een collega een noodmelding stuurt krijgen alle eenheden een 999 bericht. Dit betekend dat iedereen in dienst bij een van de diensten, een hoge prio melding krijgen dat er een collega een noodmelding heeft gestuurd. Dit is apart van de 999 melding, ook wel noodknop genoemd, die polite kan uitsturen. Die krijgen alleen specifiek de agenten in dienst)
 
 **Crimineel**
