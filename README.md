@@ -90,41 +90,36 @@ Voertuigen in de Aircraft Dealer aanwezig:
 -------------------------------------------------------------------------------------------------------------------
 
 **Whitelisted Jobs**
-Politie
-Ambulance
-Brandweer
-Car Dealership (momenteel ook whitelisted doordat er veel dingen aangepast moeten worden om dit RP perfect te maken)
-Advocaat (Advocaat moet nog verder uitgewerkt worden)
-ANWB (Met specifieke Auto Mods die alleen bepaalde rangen binnen de ANWB mogen uitvoeren)
-Journalist (Onbekend hoe ik dit binnen RP ga laten lopen)
-Piloot (momenteel aan het kijken tot hoe verre ik dit kan implementeren binnen de RP omgeving)
+* Politie
+* Ambulance
+* Brandweer
+* Car Dealership (momenteel ook whitelisted doordat er veel dingen aangepast moeten worden om dit RP perfect te maken)
+* Advocaat (Advocaat moet nog verder uitgewerkt worden)
+* ANWB (Met specifieke Auto Mods die alleen bepaalde rangen binnen de ANWB mogen uitvoeren)
+* Journalist (Onbekend hoe ik dit binnen RP ga laten lopen)
+* Piloot (momenteel aan het kijken tot hoe verre ik dit kan implementeren binnen de RP omgeving)
 
 **Non Whitelisted Jobs**
 * Visser
 * Brandstof Transport (Binnekort met custom livery's die bepaald welke Gas Stations je naar toe gaat rijden)
-Hout Hakker 
-Mijn Werker
-Slachter
-Taxi (Zowel voor spelers als voor NPC's)
-Koerier (Momenteel PostNL, binnekort komt Coolblue / DHL / en andere post zoals FedEx er ook bij)
+* Hout Hakker 
+* Mijn Werker
+* Slachter
+* Taxi (Zowel voor spelers als voor NPC's)
+* Koerier (Momenteel PostNL, binnekort komt Coolblue / DHL / en andere post zoals FedEx er ook bij)
 
 **Onderwereld Jobs**
-Huisinbraak
-
-Winkeloverval
-
-Bankoverval
-
-Drugs (Coke/Meth/Opium/XTC/Poppy)
-
-Maffia
-
-Bikers
+* Huisinbraak
+* Winkeloverval
+* Bankoverval
+* Drugs (Coke/Meth/Opium/XTC/Poppy)
+* Maffia
+* Bikers
 
 **Non Categorised Jobs**
-Bitcoins Minen
-Etherium Minen
-Wiet (Hiervoor heb je een licensie nodig en gelden bepaalde aantallen bij om die licensie te behouden mocht dit gecontroleerd worden door politie. Die bepaalde aantallen liggen volledig in de handen van politie om die te handhaven en ervoor te zorgen dat niemand meer bij heeft dan het toegestaande aantal. Politie kan bij het zien van een overschrijding van het toegestaande aantal, de wiet licensie intrekken)
+* Bitcoins Minen
+* Etherium Minen
+* Wiet (Hiervoor heb je een licensie nodig en gelden bepaalde aantallen bij om die licensie te behouden mocht dit gecontroleerd worden door politie. Die bepaalde aantallen liggen volledig in de handen van politie om die te handhaven en ervoor te zorgen dat niemand meer bij heeft dan het toegestaande aantal. Politie kan bij het zien van een overschrijding van het toegestaande aantal, de wiet licensie intrekken)
 
 -------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------ Dit waren de jobs ------------------------------------------------
@@ -135,58 +130,43 @@ Wiet (Hiervoor heb je een licensie nodig en gelden bepaalde aantallen bij om die
 -------------------------------------------------------------------------------------------------------------------
 
 **Eten**
-Supermarkten
+* Supermarkten
 
 **Drinken**
-Supermarkten
-
-Coca Cola Machines
+* Supermarkten
+* Coca Cola Machines
 
 **Brandstof**
-Pomp Stations
+* Pomp Stations
 
 **Uiterlijk**
-Kledingwinkels
-
-Tattoo Shops
-
-Kappers
+* Kledingwinkels
+* Tattoo Shops
+* Kappers
 
 **Voertuig**
-ANWB (voor reparaties en tuning)
-
-Car Wash
-
-Fietsenverhuur
-
-Publieke Garages (Ook impound)
-
-Boten Garages (Ook inpound)
-
-Auto's Huren (Dit kan alleen als de Auto Dealer Job whitelisted blijft en de systemen getest zijn)
+* ANWB (voor reparaties en tuning)
+* Car Wash
+* Fietsenverhuur
+* Publieke Garages (Ook impound)
+* Boten Garages (Ook inpound)
+* Auto's Huren (Dit kan alleen als de Auto Dealer Job whitelisted blijft en de systemen getest zijn)
 
 **Economie**
-Banken
-
-Pinautomaten
-
-Cash
-
-Bank (Hiermee zal je in staat zijn bepaalde dingen aan te schaffen zoals auto's omdat het niet RP wijs logisch is dat je een auto van 100K gaat kopen met cash. Later zal hiervoor ook een PIN systeem tussen komen, waarvoor je dus je pincode nodig hebt om die transactie te kunnen verrichten)
-
-Salaris (Per rang krijg je een bepaalde hoeveelheid salaris, waarbij je ook nog per actie die je verricht voor de job geld krijgt)
+* Banken
+* Pinautomaten
+* Cash
+* Bank (Hiermee zal je in staat zijn bepaalde dingen aan te schaffen zoals auto's omdat het niet RP wijs logisch is dat je een auto van 100K gaat kopen met cash. Later zal hiervoor ook een PIN systeem tussen komen, waarvoor je dus je pincode nodig hebt om die transactie te kunnen verrichten)
+* Salaris (Per rang krijg je een bepaalde hoeveelheid salaris, waarbij je ook nog per actie die je verricht voor de job geld krijgt)
 
 **Overige**
-Wapenwinkel (momenteel bezig met licensies en hoe dit gaat lopen binnen de RP omgeving)
-
-CBR voor je Auto/Motor/Vrachtwagen (Boten ben ik nog mee bezig)
-
-Appartementen
-
-Telefoon (Hiermee kan je dus ook ANWB, Ambulance, Politie, Brandweer, Auto Dealer berichten sturen. Zodra je dood gaat, kan je de G toets gebruiken om een noodmelding uit te sturen naar de ambulance. Als er meer dan 4 agenten in de stad zijn krijgt ook politie een bericht, maar met de notitie dat de Ambu ook al de melding heeft gekregen. Mocht het in het uiterste geval gaan om een auto ongeluk dan krijgt brandweer ook een bericht toegestuurd. Brandweer heeft namelijk materialen om auto's uit elkaar te halen waardoor ambu makkelijk bij het slachtoffer kan komen. Detail: Zodra er een collega een noodmelding stuurt krijgen alle eenheden een 999 bericht. Dit betekend dat iedereen in dienst bij een van de diensten, een hoge prio melding krijgen dat er een collega een noodmelding heeft gestuurd. Dit is apart van de 999 melding, ook wel noodknop genoemd, die polite kan uitsturen. Die krijgen alleen specifiek de agenten in dienst)
+* Wapenwinkel (momenteel bezig met licensies en hoe dit gaat lopen binnen de RP omgeving)
+* CBR voor je Auto/Motor/Vrachtwagen (Boten ben ik nog mee bezig)
+* Appartementen
+* Telefoon (Hiermee kan je dus ook ANWB, Ambulance, Politie, Brandweer, Auto Dealer berichten sturen. Zodra je dood gaat, kan je de G toets gebruiken om een noodmelding uit te sturen naar de ambulance. Als er meer dan 4 agenten in de stad zijn krijgt ook politie een bericht, maar met de notitie dat de Ambu ook al de melding heeft gekregen. Mocht het in het uiterste geval gaan om een auto ongeluk dan krijgt brandweer ook een bericht toegestuurd. Brandweer heeft namelijk materialen om auto's uit elkaar te halen waardoor ambu makkelijk bij het slachtoffer kan komen. Detail: Zodra er een collega een noodmelding stuurt krijgen alle eenheden een 999 bericht. Dit betekend dat iedereen in dienst bij een van de diensten, een hoge prio melding krijgen dat er een collega een noodmelding heeft gestuurd. Dit is apart van de 999 melding, ook wel noodknop genoemd, die polite kan uitsturen. Die krijgen alleen specifiek de agenten in dienst)
 
 **Crimineel**
-Gevangenis
+* Gevangenis
 
 
 -------------------------------------------------------------------------------------------------------------------
@@ -209,31 +189,31 @@ Gevangenis
 -------------------------------------------------------------------------------------------------------------------
 
 **Ziektes**
-Op verchillende momenten kunnen er ziektes voorkomen. Mocht je in dit geval ziek worden, kan je bij de ambulance of een ambulance broeder medicatie hiervoor halen. Of je moet behandeld worden, die kans is ook aanwezig.
+* Op verchillende momenten kunnen er ziektes voorkomen. Mocht je in dit geval ziek worden, kan je bij de ambulance of een ambulance broeder medicatie hiervoor halen. Of je moet behandeld worden, die kans is ook aanwezig.
 
 **Deursloten**
-Gebouwen zoals Politie Bureau en Ziekenhuis, zullen speciale sloten hebben waarvan alleen de Hulpdiensten sleutels van hebben. (Oftewel alleen Hulpdiensten kunnen de deuren op slot en van slot doen)
+* Gebouwen zoals Politie Bureau en Ziekenhuis, zullen speciale sloten hebben waarvan alleen de Hulpdiensten sleutels van hebben. (Oftewel alleen Hulpdiensten kunnen de deuren op slot en van slot doen)
 
 **Voertuigen**
-Gordelsysteem (als je je gordel niet aan hebt, loop je meer verwondingen op bij een ongeluk en kan je zelfs door de ruit heen vliegen)
-Autoslot (je kan je auto op slot zetten)
-Sleutels Geven (je kan je auto sleutels aan een persoon geven, en dus je auto in een RP manier verkopen)
-Trailer (Er zitten speciale trailers in de stad. Deze trailers kan je op iedere auto met een trekhaak aansluiten. Hiermee kan je voertuigen op de trailer zetten en ze hiermee vervoeren)
+* Gordelsysteem (als je je gordel niet aan hebt, loop je meer verwondingen op bij een ongeluk en kan je zelfs door de ruit heen vliegen)
+* Autoslot (je kan je auto op slot zetten)
+* Sleutels Geven (je kan je auto sleutels aan een persoon geven, en dus je auto in een RP manier verkopen)
+* Trailer (Er zitten speciale trailers in de stad. Deze trailers kan je op iedere auto met een trekhaak aansluiten. Hiermee kan je voertuigen op de trailer zetten en ze hiermee vervoeren)
 
 **Licensies**
-Je kan licensies kopen voor:
+* Je kan licensies kopen voor:
   - Vuurwapens
   - Wiet
   - Meer komt er aan!
   
 **Chat**
-/me (voor RP)
-/do (voor RP)
-/twt | /twitter (Om te praten met andere mensen in de stad)
+* /me (voor RP)
+* /do (voor RP)
+* /twt | /twitter (Om te praten met andere mensen in de stad)
 
 
 **Dienst**
-Bepaalde jobs hebben een indienst/uitdienst systeem waarmee je dus in of uit dienst kan gaan en dus bijvoorbeeld geen meldingen krijgt als je even iets anders wilt doen.
+* Bepaalde jobs hebben een indienst/uitdienst systeem waarmee je dus in of uit dienst kan gaan en dus bijvoorbeeld geen meldingen krijgt als je even iets anders wilt doen.
 
 
 -------------------------------------------------------------------------------------------------------------------
