@@ -83,10 +83,8 @@ Voertuigen in de Car Dealer aanwezig:
 Voertuigen in de Aircraft Dealer aanwezig:
 **Geen, ik ben er nog mee bezig**
 
---------------------------------------------- ----------------------- ---------------------------------------------
-* Er zijn meer voertuigen aanwezig in de game alleen dit zijn degene die erin zitten
---------------------------------------------- Dit waren de voertuigen ---------------------------------------------
-
+-------------------------------------------------------------------------------------------------------------------
+* Er zijn meer voertuigen aanwezig in de game alleen dit zijn degene die erin zitten. Dit waren de voertuigen
 -------------------------------------------------------------------------------------------------------------------
  **Jobs** 
 -------------------------------------------------------------------------------------------------------------------
