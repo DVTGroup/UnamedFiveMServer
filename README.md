@@ -12,6 +12,7 @@ Voertuigen in de Car Dealer aanwezig:
  
  **Nissan**
 Armada Nism (Nissan)
+GTR 2017 (Nissan)
 
 **Mitsubishi**
 Lancer Evo X (Mitsubishi)
