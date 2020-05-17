@@ -153,6 +153,7 @@ Voertuigen in de Aircraft Dealer aanwezig:
 * Fietsenverhuur
 * Publieke Garages (Ook impound)
 * Boten Garages (Ook inpound)
+* Vliegtuig / Heli Garages (Ook impound)
 * Auto's Huren (Dit kan alleen als de Auto Dealer Job whitelisted blijft en de systemen getest zijn)
 
 **Economie**
@@ -181,8 +182,69 @@ Voertuigen in de Aircraft Dealer aanwezig:
 **Items**
 -------------------------------------------------------------------------------------------------------------------
 
-                                               **Ben ik mee bezig**
+**Eten**
+* Brood
+* Koekje
+* Schaal met nootjes
+* Schaal met Cashew Nootjes
+* Schaal met pistachenoten 
+* Schaal met chips
+* Worstje
+* Schaal met druiven
 
+**Voor Drankjes**
+* Mint blaadje
+* ijs
+
+**Drinken**
+* Water
+* Vodka
+* Whisky
+* Tequila
+* Rum
+* Jägermeister
+* White Martini
+* Soda
+* Fruit Sap
+* Ice Tea
+* Redbull
+* Monster (50cl)
+* Dr. Pepper
+* Cola
+* Limonade
+* Jägerbomb
+* Golem
+* Whisky-Cola
+* Vodka-Energy
+* Vodka-Fruit Sap
+* Rum-Fruit Sap
+* Teq'paf
+* Rum-Coca Cola
+* Mojito
+* Aperitief Mix
+* Shooter Meter
+* Jäger Cerberus 
+
+**Voertuigen**
+* Repairkit (voor motor problemen etc)
+* Plaatwerk Kit (voor visuele schade)
+
+**Drugs**
+* Meth
+* Coke
+* Chemicaliën 
+* Coca Blad
+* XTC
+* Canabis
+* Merjuana 
+* Poppy
+
+**Overig**
+* Bitcoin
+* Etherium          
+
+
+(En nog meer die momenteel nog geen gekoppeld gebruik hebben)
 -------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------- Dit waren de items-------------------------------------------------
 
@@ -196,6 +258,11 @@ Voertuigen in de Aircraft Dealer aanwezig:
 
 **Deursloten**
 * Gebouwen zoals Politie Bureau en Ziekenhuis, zullen speciale sloten hebben waarvan alleen de Hulpdiensten sleutels van hebben. (Oftewel alleen Hulpdiensten kunnen de deuren op slot en van slot doen)
+
+**Persoonlijk**
+* F5 menu voor inventaris, kleding, animaties, portomomee (ID laten zien etc), Bedijfs Beheer, Voertuig Beheer, GPS, Stem sterkte (normaal, schreeuwen, fluisteren)
+* F9 Scoreboard (spelers, ID's, Ping, Hoeveelheid in dienst per hulpdienst of whitelisted job)
+* 
 
 **Voertuigen**
 * Gordelsysteem (als je je gordel niet aan hebt, loop je meer verwondingen op bij een ongeluk en kan je zelfs door de ruit heen vliegen)
